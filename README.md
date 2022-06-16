@@ -2,7 +2,7 @@
 A Simple Javascript web application to find Air Quality near your location or any other city around the world. The App uses [this](https://aqicn.org/api/) Api to get data.
 
 ## AQI API 
-[AQI API](https://aqicn.org/data-platform/token-confirm/74a44847-07ca-47ad-903f-1e466cfe3bc3)
+[Air Quality Open Data Platform](https://aqicn.org/data-platform/token-confirm/74a44847-07ca-47ad-903f-1e466cfe3bc3)
 
 ## What is AQI ?
 The air quality index (AQI) is an index for reporting air quality.The purpose of the AQI is to help people know how the local air quality impacts their health. 
