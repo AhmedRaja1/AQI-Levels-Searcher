@@ -12,7 +12,7 @@ This App uses your geolocation to find nearest station around you and fetch data
 This App have an option to search aqi index of any city around the world.
 
 ## Deployment
-A running version of program is [Here](https://find-aqi.netlify.app/)
+A running version of program is [Here](https://reliance-fyp.github.io/AQI-Levels-Searcher/)
 
 ## To-Do-list
 * Dark Mode:D
