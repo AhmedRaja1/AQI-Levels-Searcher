@@ -1,6 +1,9 @@
 # Air-Quality-App
 A Simple Javascript web application to find Air Quality near your location or any other city around the world. The App uses [this](https://aqicn.org/api/) Api to get data.
 
+## Screenshot of App
+![AQI Searcher](https://raw.githubusercontent.com/Reliance-FYP/AQI-Levels-Searcher/main/app.png)
+
 ## AQI API 
 [Air Quality Open Data Platform](https://aqicn.org/data-platform/token-confirm/74a44847-07ca-47ad-903f-1e466cfe3bc3)
 
