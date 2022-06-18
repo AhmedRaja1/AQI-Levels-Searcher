@@ -1,0 +1,5 @@
+Congratulation, your registration already validated.
+
+Your token :
+
+a01564099d9c8faf1801722090e911792d488ada
